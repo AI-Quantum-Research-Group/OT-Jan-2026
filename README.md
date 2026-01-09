@@ -25,10 +25,10 @@ The material is organized as a sequence of practice sessions:
 
 - Session 1 — [Discrete OT and linear programming formulation](https://github.com/AI-Quantum-Research-Group/OT-Jan-2026/blob/master/notebooks/intro.ipynb)
 - Session 2 — Entropic regularization and Sinkhorn algorithm
-- Session 3 — ██████████ █████████ ███████████████ ████ █████ 
-- Session 4 — ████████ █████ ███████████████ ██████████ ███
-- Session 5 — ████████████ ████████████████████ ███████ ████
-- Session 6 — ██████████ ███████████████ ███████████████ ████
+- Session 3 — ██████████ █████████ ███████████████ ████ 
+- Session 4 — ████████ █████ ███████████████ █████████
+- Session 5 — ████████████ ████████████████████ ███████
+- Session 6 — ██████████ ███████████████ ███████████████
 
 ---
 
