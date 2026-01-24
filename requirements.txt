@@ -5,3 +5,8 @@ cvxpy
 POT
 jupyterlab
 ipykernel
+jax
+jaxlib
+toolz
+gurobipy
+chex
