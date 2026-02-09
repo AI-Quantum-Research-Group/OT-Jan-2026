@@ -10,3 +10,5 @@ jaxlib
 toolz
 gurobipy
 chex
+uot-bench
+scikit-image
